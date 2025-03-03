@@ -7,12 +7,19 @@ Welcome to **Task Manager App**! 🚀 This beautifully designed and feature-pack
 ## ✨ Features
 
 ✅ **Add Tasks** - Quickly add tasks with a single tap.
+
 ✅ **Set Due Dates** - Tap the 📅 button to choose a date with an elegant calendar picker.
+
 ✅ **Prioritize Tasks** - Select task priority using a stylish dropdown.
+
 ✅ **Search & Filter** - Easily find tasks or filter by **All, Completed, or Pending**.
+
 ✅ **Task Completion** - Tap a task to mark it as completed. ✅
+
 ✅ **Edit & Delete** - Modify tasks or remove them with a swipe.
+
 ✅ **Beautiful UI** - Clean and modern design with a gradient background.
+
 ✅ **Animations** - Smooth fade-in effects make interactions feel premium. 💎
 
 ---
